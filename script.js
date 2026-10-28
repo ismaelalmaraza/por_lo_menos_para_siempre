@@ -2,7 +2,7 @@
 
 // CONFIGURACIÓN: sustituye esta dirección por el enlace REAL de tu libro.
 // Ejemplo: 'https://www.amazon.com.mx/dp/TU_ASIN'
-const AMAZON_URL = '';
+const AMAZON_URL = 'assets/PRREVIEW.pdf';
 
 document.addEventListener('DOMContentLoaded', () => {
   const menuToggle = document.getElementById('menuToggle');
