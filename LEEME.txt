@@ -1,0 +1,13 @@
+POR LO MENOS PARA SIEMPRE — LANDING PAGE
+
+1. Abre index.html en tu navegador.
+2. En script.js, configura AMAZON_URL con el enlace real de la ficha del libro.
+3. Sustituye el contenido del modal #excerptText en index.html por un fragmento auténtico del manuscrito.
+4. La portada-original.webp se recortó de la imagen de cubierta proporcionada por el autor.
+5. Las imágenes cinematográficas se extrajeron del mockup aprobado para mantener su estética.
+6. La fotografía del autor incluida es ilustrativa: sustitúyela por una fotografía oficial antes de publicar.
+7. Comprueba la sinopsis y textos editoriales antes de su publicación; algunos son propuestas de marketing.
+8. Las redes del encabezado son decorativas: agrega enlaces reales si quieres hacerlas funcionales.
+9. Sube toda la carpeta a Netlify o intégrala en tu web conservando la estructura assets/.
+
+No se inventaron precios, formatos disponibles ni opiniones de lectores.
